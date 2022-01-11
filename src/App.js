@@ -1,5 +1,5 @@
 import React from 'react';
-import Potato from './Potato';
+import potato from './Potato';
 
 function App() {
   return (
